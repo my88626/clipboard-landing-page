@@ -1,0 +1,122 @@
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: hsl(210, 10%, 33%);
+}
+
+p {
+  color: hsl(201, 11%, 66%);
+}
+
+.container-header {
+    background-image: url(bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+    margin-bottom: 120px;
+}
+header {
+    width: 45vw;
+    padding: 0px 5px;
+}
+#header-logo {
+    width: 100px;
+    padding-bottom: 40px;
+}
+#header-headline {
+    padding-bottom: 10px;
+}
+#header-sub-text {
+    padding-bottom: 30px;
+}
+
+.second-container{
+  width: 43%;
+  margin: 100px auto 100px auto;
+}
+
+.third-container{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-top: 50px;
+  width: 65%;
+
+}
+
+.computer{
+  float: left;
+  width: 50%;
+  padding-right: 100px;
+}
+
+.fourth-container {
+    clear:both;
+    width: 43%;
+    margin: 250px auto 100px auto;
+
+}
+
+.fifth-container{
+  padding-bottom: 50px;
+}
+
+.device {
+  float: center;
+}
+
+.icon-text {
+  float:left;
+  width: 400px;
+}
+
+.blacklist {
+  float: left;
+  width: 400px;
+  padding-left: 200px;
+}
+
+.icon-preview{
+  float: left;
+  width: 400px;
+}
+
+.logo-container {
+  clear: both;
+  margin: 300px auto 100px auto;
+}
+
+.div-inline{
+  display:inline;
+  margin: 20px 30px;}
+
+.last-container{
+  width: 43%;
+  margin: 100px auto 50px auto;
+}
+
+.bottom-container {
+  background-color: #f5f6f8;
+  color: hsl(201, 11%, 66%);
+   padding-top: 50px;
+   padding-bottom:50px;
+}
+
+.link {
+  display:inline;
+  margin: 20px 30px;
+color: hsl(210, 10%, 33%);}
+
+.social-logo {
+    display: inline;
+    margin: auto 30px;
+  }
+
+.ios {
+  width: 30%;
+}
